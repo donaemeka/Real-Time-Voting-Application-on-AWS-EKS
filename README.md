@@ -21,6 +21,8 @@ This repository contains my DevOps project where I deployed a 3-tier web applica
 
 ## 🏗️ Architecture:
 
+![Architecture](screenshots/architecture.png)
+
 ### Frontend → NGINX Ingress → Amazon EKS → Microservices
 
 The application follows a 3-tier design:
